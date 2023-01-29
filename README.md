@@ -6,6 +6,10 @@ Clean and minimal **Radix UI** and **Tailwind CSS** components.
 > These are a work in progress components. I'm pushing it publicly because I want you to see all my progress.
 
 ---
+## Get started
+Follow instructions on [Another UI template docs](https://github.com/arscslvt/anotherui-app-template).
+
+---
 
 ## Example
 
