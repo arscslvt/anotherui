@@ -26,7 +26,7 @@ A vertically stacked set of interactive headings that each reveal an associated 
 | collapsible | boolean | false   | When type is "single", allows closing content when clicking trigger for an open item.                             |
 | ...         |         |         | View full documentation on [Radix UI Docs](https://www.radix-ui.com/docs/primitives/components/accordion)         |
 
-## Getting started
+## How can I use it?
 
 ```jsx
 import { Accordion } from "@anotherui/accordion";
